@@ -16,7 +16,13 @@ Aimation window which present the visibility and position of satellites
 ![image](https://github.com/MariaMank/Satellite-Navigation/assets/92314221/7ab7f8f8-7890-4ac5-a1a3-7bc9a0bbd4fa)
 
 I also uploaded the video presenting how does the animation work - 2022-04-08 01-08-50.mp4
+https://github.com/MariaMank/Satellite-Navigation/assets/92314221/9ad0e1e3-67e4-4820-a111-4b345faf4f41
 
-Files date2tow.py, groundstack_stud.py, read_yuma.py was created by Maciej Grzymała - teacher of this course
-File skyplot2.py was also created by Maciej, but I updated it to make animation how satellites are changing the position
-file main.py is fully written by me
+
+
+File main.py is fully written by me and contains all most important in this project computation.
+
+Files date2tow.py, groundstack_stud.py, read_yuma.py was created by Maciej Grzymała - teacher of this course.
+
+File skyplot2.py was also created by Maciej, but I updated it to make animation.
+
