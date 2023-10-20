@@ -17,10 +17,7 @@ In file main.py you can change the inputs - start date, end date, how often you 
 
 I also uploaded the video presenting how does the animation work - 2022-04-08 01-08-50.mp4
 
-
 File main.py is fully written by me and contains all of the most important in this project computations.
-
 Files date2tow.py, groundstack_stud.py, read_yuma.py was created by Maciej Grzymała - teacher of this course.
-
 File skyplot2.py was also created by Maciej, but I updated it to make animation.
 
