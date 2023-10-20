@@ -10,7 +10,7 @@ In file main.py you can change the inputs - start date, end date, how often you 
 
 ![image](https://github.com/MariaMank/Satellite-Navigation/assets/92314221/48bd088a-1992-4d23-8f60-48d72b1957ff)
 
-**The diagram of the elevation of given satelites.**
+**The diagram of the elevation of the given satelites.**
 
 ![image](https://github.com/MariaMank/Satellite-Navigation/assets/92314221/fc1f4f07-85e1-4053-a579-d1c1e47ebd07)
 
