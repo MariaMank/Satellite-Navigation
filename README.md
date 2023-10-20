@@ -14,7 +14,7 @@ In file main.py you can change the inputs - start date, end date, how often you 
 
 ![image](https://github.com/MariaMank/Satellite-Navigation/assets/92314221/fc1f4f07-85e1-4053-a579-d1c1e47ebd07)
 
-**Aimation window which present the visibility and position of satellites**
+**Aimation window which presents the visibility and position of satellites**
 
 ![image](https://github.com/MariaMank/Satellite-Navigation/assets/92314221/7ab7f8f8-7890-4ac5-a1a3-7bc9a0bbd4fa)
 
