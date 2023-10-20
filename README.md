@@ -4,7 +4,7 @@
 
 In file main.py you can change the inputs - start date, end date, how often you need to calculate the results, position of the receiver, mask (how much above the horizon must be satelite to take it into acount during calculation), and numbers of the sitellites you want to take into considaration (if you left this table empty, the porgram will calculate everything for any satelite visible from given place).
 
-##Output:
+## Output:
 
 **Plot of the values of the DOP coefficients in time (in hours) and the visibility of the satellites in time (taking into consideration given mask).**
 ![image](https://github.com/MariaMank/Satellite-Navigation/assets/92314221/48bd088a-1992-4d23-8f60-48d72b1957ff)
