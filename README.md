@@ -2,7 +2,7 @@
 
 **The application allows you to determine DOP (Dilutions of precision) coefficients and satellite positions for any selected day and place on earth using almanac file.**
 
-In file main.py you can change the inputs - start date, end date, how often you need to calculate the results, position of the receiver, mask (how much above the horizon must be satelite to take it into acount during calculation), and numbers of the sitellites you want to take into considaration (if you left this table empty, the porgram will calculate everything for any satelite visible from given place).
+In file main.py you can change the inputs - start date, end date, how often you need to calculate the results, position of the receiver, mask (how much above the horizon must be satelite to take it into acount during calculation), and numbers of the satellites you want to take into considaration (if you left this table empty, the porgram will calculate everything for any satelite visible from given place).
 
 ## Output:
 
