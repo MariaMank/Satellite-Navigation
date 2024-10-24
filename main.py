@@ -25,7 +25,7 @@ satelity = []
 
 
 ####OBLICZENIA###
-week1, tow1 = date2tow(data1)
+week1, tow1 = date2tow(data1) #tydzien GPS, secunda tygodnia
 week2, tow2 = date2tow(data2)
 
 a = 6378137 #metry
@@ -96,7 +96,7 @@ def wyliczenia(tow1, tow2, skok):
     #w zwiazku z tym
     if week1 != week2:
         i = week2 - week1
-        tow2 = 604800
+        tow2 = 604800 #liczba sekund w tygodniu
     while i>=0:
         for t in range(tow1, tow2, skok):       #co 15 min - 900 s
             A = np.zeros((0, 4))
